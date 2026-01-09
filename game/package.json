@@ -1,5 +1,5 @@
 {
-  "name": "tet-spending-game",
+  "name": "tet-sum-vay",
   "version": "1.0.0",
   "description": "Interactive Tet spending game",
   "main": "server.js",
